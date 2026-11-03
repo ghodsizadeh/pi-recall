@@ -1,6 +1,6 @@
 # pi-recall
 
-[![npm](https://img.shields.io/npm/v/pi-recall?color=cb3837&logo=npm)](https://www.npmjs.com/package/pi-recall)
+[![npm](https://img.shields.io/npm/v/@mghodsizadeh/pi-recall?color=cb3837&logo=npm)](https://www.npmjs.com/package/@mghodsizadeh/pi-recall)
 [![pi package](https://img.shields.io/badge/pi-package-7c3aed)](https://pi.dev/packages)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/ghodsizadeh/pi-recall?style=flat&logo=github)](https://github.com/ghodsizadeh/pi-recall)
@@ -18,7 +18,7 @@ Sometimes you start a new session: the cache expired, the old one got too long, 
 ## Install
 
 ```bash
-pi install npm:pi-recall
+pi install npm:@mghodsizadeh/pi-recall
 # or
 pi install git:github.com/ghodsizadeh/pi-recall
 ```
