@@ -3,12 +3,12 @@
 **Pick up where you left off.** Pull the useful parts of earlier [pi](https://pi.dev) conversations into your current one, without pasting raw transcripts.
 
 ```
-/recall XP-3472
+/recall auth refactor
 ```
 
 ## Why
 
-Sometimes you start a new session: the cache expired, the old one got too long, or it's a follow-up ticket. The decisions you made are still in the old session. `pi-recall` finds that session and brings in only what matters.
+Sometimes you start a new session: the cache expired, the old one got too long, or you're picking up a task from last week. The decisions you made are still in the old session. `pi-recall` finds that session and brings in only what matters.
 
 ## Install
 
@@ -37,12 +37,12 @@ Then choose how to attach the sessions:
 
 **Or just ask.** The agent has a `recall` tool, so a prompt like this works:
 
-> check what we decided about the index in the XP-3472 session
+> check how we handled rate limiting in an earlier session and do the same here
 
 ## What counts as "this project"
 
 - the git repo you're in, including its subdirectories
-- its git worktrees, even ones that live outside the repo folder (`repo-xp-1234/`)
+- its git worktrees, even ones that live outside the repo folder (`my-app-feature-x/`)
 
 ## Good to know
 
