@@ -1,5 +1,10 @@
 # pi-recall
 
+[![npm](https://img.shields.io/npm/v/pi-recall?color=cb3837&logo=npm)](https://www.npmjs.com/package/pi-recall)
+[![pi package](https://img.shields.io/badge/pi-package-7c3aed)](https://pi.dev/packages)
+[![license: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/ghodsizadeh/pi-recall?style=flat&logo=github)](https://github.com/ghodsizadeh/pi-recall)
+
 **Pick up where you left off.** Pull the useful parts of earlier [pi](https://pi.dev) conversations into your current one, without pasting raw transcripts.
 
 ```
