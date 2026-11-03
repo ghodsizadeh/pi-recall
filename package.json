@@ -1,0 +1,36 @@
+{
+  "name": "pi-recall",
+  "version": "0.1.0",
+  "description": "Pull context from your earlier pi conversations into the current one.",
+  "keywords": [
+    "pi-package",
+    "pi",
+    "pi-extension",
+    "sessions",
+    "memory",
+    "recall"
+  ],
+  "license": "MIT",
+  "author": "Mehdi Ghodsizadeh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghodsizadeh/pi-recall.git"
+  },
+  "homepage": "https://github.com/ghodsizadeh/pi-recall#readme",
+  "type": "module",
+  "files": [
+    "index.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "pi": {
+    "extensions": [
+      "./index.ts"
+    ]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-ai": "*",
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-tui": "*"
+  }
+}
